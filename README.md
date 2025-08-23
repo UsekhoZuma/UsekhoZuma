@@ -1,5 +1,8 @@
-## Hi there 👋
+# Usekho Zuma
 
+** Aspiring Software Developer **
+
+I am a 1st year Computer Science AND Mathematics major at the UFS. I work towards building effective applications that are not only useful, but directly solve real world problems. I am an Aspiring BackEnd Dev who plans to use knowledge of Calculus, Probability and Data Analysis to build working applications from the ground up. From being an idea to being a fully working model, each application is built with enthusiasm and care.
 <!--
 **UsekhoZuma/UsekhoZuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
