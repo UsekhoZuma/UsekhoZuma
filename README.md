@@ -24,8 +24,7 @@ I am a 2nd year Computer Science AND Mathematics major at the UFS. I work toward
 <h3>📊 Stats</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=usekhozuma&show_icons=true&theme=outrun" 
-       alt="Usekho's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usekhozuma&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 
