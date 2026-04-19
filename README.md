@@ -38,7 +38,7 @@ I  first fell in love with the idea of studying Computer Science during my sopho
 
 In 2025, I began my Computer Science studies, where I expanded my skills into C#, HTML, and JavaScript. With every project and concept, my passion for coding grew stronger, and I started seeing how each language opens up new ways of building and creating.
 
-My journey is still ongoing, with SQL being the next milestone as I continue exploring the world of software development and beyond.
+My journey is still ongoing, with SQL and Data Structures and Algorithms being the next milestone as I continue exploring the world of software development and beyond.
   </p>
 </details>
 
