@@ -24,7 +24,7 @@ I am a 2nd year Computer Science AND Mathematics major at the UFS. I work toward
 <h3>📊 Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usekhozuma&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=usekhozuma&theme=tokyonight" alt="GitHub Stats Card" />
 </p>
 <p>
   <img src="https://streak-stats.demolab.com?user=usekhozuma&theme=tokyonight" />
